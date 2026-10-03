@@ -19,10 +19,12 @@ portal/
 ├── index.html ← Main page (iframe wrapper + PWA meta tags)
 ├── manifest.json ← PWA manifest (name, icons, display mode)
 ├── sw.js ← Service worker (required for install prompt)
-├── CNAME ← GitHub Pages custom domain config
 └── icons/
 ├── icon-192.png ← App icon (home screen, 192×192)
 └── icon-512.png ← App icon (splash screen, 512×512)
+
+
+─ CNAME ← GitHub Pages custom domain config
 
 
 ---
